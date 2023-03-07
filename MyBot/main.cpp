@@ -1,4 +1,5 @@
 #include <dpp/dpp.h>
+#include <dpp/dispatcher.h>
 #include "token.h"
 //#include "config.h"
 
