@@ -2,7 +2,6 @@
 #include "token.h"
 //#include "config.h"
 
-
 int main() {
 	dpp::cluster bot(BOT_TOKEN);
 	bot.on_log(dpp::utility::cout_logger());
